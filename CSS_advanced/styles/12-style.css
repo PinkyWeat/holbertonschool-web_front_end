@@ -65,7 +65,7 @@ a {
 .section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
-    font-weight: var(--section-title-margin);
+    margin: var(--section-title-margin);
     color: var(--section-title-color);
 }
 
