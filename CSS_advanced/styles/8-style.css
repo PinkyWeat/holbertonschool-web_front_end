@@ -35,6 +35,7 @@ body {
     font-weight: var(--font-weight-regular);
 
     min-height: var(--line-height-base);
+    line-height: var(--line-height-base);
 }
 
 a {
