@@ -104,10 +104,7 @@ a:active {
 
 .section-header {
     text-align: var(--section-header-align);
-    padding-left: var(--section-body-padding);
-    padding-top: var(--section-body-padding);
-    padding-bottom: var(--section-body-padding);
-    padding-right: var(--section-body-padding);
+    padding: var(--section-padding);
 }
 
 .section-body {
