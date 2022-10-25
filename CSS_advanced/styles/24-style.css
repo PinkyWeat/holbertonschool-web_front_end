@@ -142,7 +142,7 @@ a:active {
 
 .card-services a {
     display: block;
-    padding: 2em;
+    padding: 2rem;
     color: var(--color-light-grey);
 }
 
